@@ -1,3 +1,4 @@
+set -e
 conda env create -f orca_train.yaml
 conda activate develop
 
